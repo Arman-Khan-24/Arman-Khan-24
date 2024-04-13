@@ -1,18 +1,23 @@
 # 🚀 Welcome to My GitHub Profile! 🌟
 
-🎓 Computer Science & Engineering Undergrad | 💼 Tech-A-Intern Virtual Intern
+🎓 Computer Science & Engineering Undergrad | 💼 Virtual Intern at Tech A Intern
 
 ---
 
 ## About Me
 
-🌈 Hey there! I'm Arman Khan, a tech enthusiast on a journey of exploration in the vast realm of technology. Currently pursuing my undergraduate degree in Computer Science & Engineering at Priyadarshini College of Engineering, Nagpur. Recently, I clinched the 1st place at the "Momentum" poster-making competition, showcasing my blend of creativity and technical expertise.
+ # 👋 About Me
+
+Hi there! I'm Arman Khan, currently pursuing my undergraduate degree in Computer Science and Engineering at Priyadarshini College of Engineering, Nagpur, set to graduate in 2027. I'm passionate about technology and am currently honing my skills through a virtual internship at Tech-A-Intern. Recently, I clinched the 1st rank at "Momentum," a prestigious poster-making competition hosted by Priyadarshini College of Engineering, Nagpur.
+
+I'm always eager to learn and grow, seeking opportunities to expand my knowledge and contribute to innovative projects in the tech industry.
 
 ---
 
 ## Skills & Expertise
 
 🌟 **Expertise:** C++ Programming, Data Structures and Algorithms (DSA), Microsoft Excel 
+
 🔥 **Skills:** Open Source Intelligence (OSINT), ChatGPT, Communication skills, Prompt engineering
 
 ---
