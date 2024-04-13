@@ -19,11 +19,11 @@
 
 ## Let's Connect!
 
-🌐 [LinkedIn](www.linkedin.com/in/arman-khan-3043072b5) | 🐦 [Twitter](https://twitter.com/Arman_Khan_24) | 🔗 [Instagram](https://www.instagram.com/_arman_khan_24_/)
+🌐 [LinkedIn](https://www.linkedin.com/in/arman-khan-3043072b5) | 🐦 [Twitter](https://twitter.com/Arman_Khan_24) | 🔗 [Instagram](https://www.instagram.com/_arman_khan_24_/)
 
 ---
 
 ## Let's Collaborate!
 
-🌟 Ready to collaborate on exciting projects and explore new opportunities! Feel free to reach out via [email](mailto:arman.rkhan24@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/arman-khan-3043072b5). Let's innovate together and create something amazing! 🚀
+🌟 Ready to collaborate on exciting projects and explore new opportunities! Feel free to reach out via [email](mailto:arman.rkhan24@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/arman-khan-3043072b5). Let's innovate together and create something amazing! 🚀
 
