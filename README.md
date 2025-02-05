@@ -1,6 +1,6 @@
 # 🚀 Welcome to My GitHub Profile! 🌟
 
-🎓 Computer Science & Engineering Undergrad | 💼 GSSoC'24 Contributor 
+🎓 Computer Science & Engineering Undergrad | 💼 PCE GDG Cloud Co-Lead'25
 
 ---
 
@@ -8,7 +8,7 @@
 
  # 👋 About Me
 
-Hi there! I'm Arman Khan, currently pursuing my undergraduate degree in Computer Science and Engineering at Priyadarshini College of Engineering, Nagpur, set to graduate in 2027. I'm passionate about technology and am currently honing my skills through working as a contributor at GSSoC'24. Recently, I clinched the 1st rank at "Momentum," a prestigious poster-making competition hosted by Priyadarshini College of Engineering, Nagpur on the topic "Artificial Intelligence".
+Hi there! I'm Arman Khan, currently pursuing my undergraduate degree in Computer Science and Engineering at Priyadarshini College of Engineering, Nagpur, set to graduate in 2027. I'm passionate about technology and am currently honing my skills through working as GDG Cloud Co-Lead'25. Recently, I clinched the 1st rank at "Momentum," a prestigious poster-making competition hosted by Priyadarshini College of Engineering, Nagpur on the topic "Artificial Intelligence".
 
 I'm always eager to learn and grow, seeking opportunities to expand my knowledge and contribute to innovative projects in the tech industry.
 
