@@ -16,7 +16,7 @@ I'm always eager to learn and grow, seeking opportunities to expand my knowledge
 
 ## Skills & Expertise
 
-🌟 **Expertise:** C++ Programming, Data Structures and Algorithms (DSA), Microsoft Excel 
+🌟 **Expertise:** C++, Python, HTML, Tailwind CSS, JavaScript, React, Data Structures and Algorithms (DSA), Microsoft Excel 
 
 🔥 **Skills:** Open Source Intelligence (OSINT), ChatGPT, Communication skills, Prompt engineering
 
