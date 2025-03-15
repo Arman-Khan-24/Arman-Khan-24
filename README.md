@@ -51,6 +51,10 @@
 
 <p>&nbsp;<img align="center" src="https://bad-apple-github-readme.vercel.app/api?username=Arman-Khan-24&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=nightowl&title_color=00b3ff" /></p>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/dvi7aRQX9U?theme=dark&font=changa&ext=activity)
+
 <p><img align="center" src="https://streak-stats.demolab.com/?user=Arman-Khan-24&count_private=true&theme=nightowl&title_color=00b3ff" alt="Arman-Khan-24" /></p>
+
 <p><img align="left" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Arman-Khan-24&layout=compact&count_private=true&theme=nightowl&title_color=00b3ff" alt="Arman-Khan-24" /></p>
+
 <p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Arman-Khan-24&radius=16&theme=nightowl&area=true&order=5" height="300" alt="activity-graph graph"  /></p>
