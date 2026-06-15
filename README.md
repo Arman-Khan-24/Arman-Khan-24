@@ -44,8 +44,6 @@
 
 🚀 &nbsp; Currently a **Software Engineering Intern at Atkind Pvt. Ltd.**, where I build and ship production-ready client websites end-to-end — from requirements through deployment — using React.js and TailwindCSS.
 
-🔐 &nbsp; I'm the creator of **[SpecterPDF](https://my-stealth-pdf.vercel.app)** — a steganographic file security system that conceals AES-256-GCM encrypted payloads inside structurally valid PDFs. The Deterministic Dynamic Decoy Synthesis protocol I invented is currently being filed as a **provisional patent** under the Indian Patents Act (1970).
-
 🎓 &nbsp; Pursuing my **B.E. in Computer Science & Engineering** at Priyadarshini College of Engineering, Nagpur (2023–2027).
 
 🏆 &nbsp; **Team Lead** at Smart India Hackathon Internal Selection (2024 & 2025) — led a 6-engineer team to design, build, and ship a full web prototype under a 24-hour hard deadline.
